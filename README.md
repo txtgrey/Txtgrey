@@ -1,10 +1,11 @@
-![Matrix SVG](https://images2.imgbox.com/a2/e7/SCZYngLH_o.png)
+
+![Matrix SVG](https://i.postimg.cc/dt6mVwFs/back-cover-1.png)
 <p>
   <h1 align="center"><b>Hello there, I'm Tejas 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Simplicity is the soul of efficiency"</b></h4>
+  <h4 align="center"><b>"Make it simple, but significant." - Don Draper</b></h4>
 </p>
 
 <p align="center">
@@ -13,8 +14,8 @@
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/profile.php?id=100010031041524"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/txtgrey"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.behance.net/thetejasagrawal"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/txtgrey"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=logo=nuxtdotjs&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/thetejasagrawal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:rpstejas@gmail.com?subject=Hello%20Tejas"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
@@ -22,10 +23,10 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ### I am a 2nd Year Computer Science Student
-- 🔭 I’m currently working on 3D Game Development :grin:
+- 🔭 I’m currently working on Automobile Software Development :grin:
 - 🌱 I’m currently learning Python Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
@@ -90,5 +91,4 @@
 
 -----
 
-Last Edited on: 06/04/2022
-
+Last Edited on: 09/08/2022
