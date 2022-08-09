@@ -23,7 +23,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" height="350px" width="350px" alt="GIF" src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47vlx54gdkglgd7j61f4a199b2b7y9iozpzk0al9at&rid=giphy.gif&ct=g" />
 
 ### I am a 2nd Year Computer Science Student
 - 🔭 I’m currently working on Automobile Software Development :grin:
