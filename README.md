@@ -25,10 +25,10 @@
 
 <img align="right" height="350px" width="350px" alt="GIF" src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47vlx54gdkglgd7j61f4a199b2b7y9iozpzk0al9at&rid=giphy.gif&ct=g" />
 
-### I am a 2nd Year Computer Science Student
-- 🔭 I’m currently working on Automobile Software Development :grin:
-- 🌱 I’m currently learning Python Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
+### I am a 3rd Year Computer Science Student
+- 🔭 I’m currently working on Flutter Mobile Devlopment :grin:
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m looking to collaborate with other Developers and Participate in Hackathons :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
